@@ -1,6 +1,6 @@
 # Worktips lite wallet
 
-_This is the reference code for lite GUI wallet for the [Worktips](https://worktips.info) cryptocurrency._
+_This is the reference code for lite GUI wallet for the [MIMI](http://www.MIMI.money) cryptocurrency._
 
 ## Features
 
@@ -24,7 +24,7 @@ _This is the reference code for lite GUI wallet for the [Worktips](https://workt
 
 ## How to use
 
-**1. Download the latest release of [Worktips Lite wallet](https://github.com/worktips/worktips-lite-wallet/releases/)**
+**1. Download the latest release 
 
 **2. Unpack the release package**
 
